@@ -803,25 +803,6 @@
           39.65790978714922
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.9628767,
-          39.678752,
-          0
-        ]
-      },
-      "properties": {
-        "NAME": "Driscoll",
-        "ELEVATION": "5,280",
-        "DESC": "5er",
-        "DATE": 2014,
-        "NUMBER_ASCENTS": 1,
-        "WINTER_ASCENT": "no"
-      }
     }
   ]
 }
