@@ -1,1 +1,828 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"NAME":"Pacific Peak","ELEVATION":"13,950","DESC":"13er","DATE":2012,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.12363815307616,39.423132679304025]}},{"type":"Feature","properties":{"NAME":"Fletcher Mountain","ELEVATION":"13,951","DESC":"13er","DATE":2011,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.12878799438477,39.403305486149264]}},{"type":"Feature","properties":{"NAME":"Quandary Peak","ELEVATION":"14,265","DESC":"14er","DATE":2013,"NUMBER_ASCENTS":2},"geometry":{"type":"Point","coordinates":[-106.10527038574219,39.397336330701755]}},{"type":"Feature","properties":{"NAME":"North Star Mountain","ELEVATION":"13,614","DESC":"13er","DATE":2011,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.12089157104492,39.376705650249434]}},{"type":"Feature","properties":{"NAME":"East Partner Peak","ELEVATION":"13,057","DESC":"13er","DATE":2013,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.27718925476073,39.699460572011105]}},{"type":"Feature","properties":{"NAME":"Mt. Democrat","ELEVATION":"14,148","DESC":"14er","DATE":2011,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.13994598388672,39.339475399396406]}},{"type":"Feature","properties":{"NAME":"Mt. Cameron","ELEVATION":"14,238","DESC":"14er","DATE":2011,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.11848831176758,39.34704251121735]}},{"type":"Feature","properties":{"NAME":"Mt. Lincoln","ELEVATION":"14,286","DESC":"14er","DATE":2011,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.11127853393555,39.351589022085406]}},{"type":"Feature","properties":{"NAME":"Mt. Bross","ELEVATION":"14,172","DESC":"14er","DATE":2011,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.10681533813477,39.334131462900494]}},{"type":"Feature","properties":{"NAME":"Mt. Buckskin","ELEVATION":"13,865","DESC":"13er","DATE":2011,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.15106105804443,39.320720034915816]}},{"type":"Feature","properties":{"NAME":"Mt. Tweto","ELEVATION":"13,672","DESC":"13er","DATE":2013,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.16938591003418,39.322081212938706]}},{"type":"Feature","properties":{"NAME":"Pennsylvania Mountain","ELEVATION":"13,006","DESC":"13er","DATE":2013,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.14217758178711,39.26442376336898]}},{"type":"Feature","properties":{"NAME":"Mt. Sherman","ELEVATION":"14,036","DESC":"14er","DATE":2013,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.17058753967285,39.22327729911215]}},{"type":"Feature","properties":{"NAME":"Weston Peak","ELEVATION":"13,572","DESC":"13er","DATE":2013,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.16389274597168,39.13605220415018]}},{"type":"Feature","properties":{"NAME":"Ptarmigan Peak","ELEVATION":"13,739","DESC":"13er","DATE":2013,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.1742353439331,39.15023114963322]}},{"type":"Feature","properties":{"NAME":"Pikes Peak","ELEVATION":"14,110","DESC":"14er","DATE":2011,"NUMBER_ASCENTS":4,"WINTER_ASCENT":"Yes"},"geometry":{"type":"Point","coordinates":[-105.04337310791014,38.83957390576818]}},{"type":"Feature","properties":{"NAME":"Sentinel ","ELEVATION":"12,572","DESC":"12er","DATE":2011,"NUMBER_ASCENTS":3},"geometry":{"type":"Point","coordinates":[-105.10439872741699,38.84024244214068]}},{"type":"Feature","properties":{"NAME":"Boulder Mountain","ELEVATION":"13,528","DESC":"13er","DATE":2011,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.292724609375,38.68014968334621]}},{"type":"Feature","properties":{"NAME":"Mt. Mamma","ELEVATION":"13,646","DESC":"13er","DATE":2011,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.31787300109863,38.66932780528148]}},{"type":"Feature","properties":{"NAME":"Grizzly Mountain","ELEVATION":"13,708","DESC":"13er","DATE":2011,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.31126403808594,38.645500507798715]}},{"type":"Feature","properties":{"NAME":"Unnamed 12581","ELEVATION":"12,581","DESC":"12er","DATE":2011,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.39572143554688,38.82252410624229]}},{"type":"Feature","properties":{"NAME":"Turner Peak","ELEVATION":"13,233","DESC":"13er","DATE":2011,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.37868404388428,38.8198158211076]}},{"type":"Feature","properties":{"NAME":"Unnamed 12956","ELEVATION":"12,956","DESC":"12er","DATE":2011,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.37040138244629,38.838303669356904]}},{"type":"Feature","properties":{"NAME":"Mt. Yale","ELEVATION":"14,196","DESC":"14er","DATE":2011,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.31366729736328,38.843986129756615]}},{"type":"Feature","properties":{"NAME":"Mascot peak","ELEVATION":"13,435","DESC":"13er","DATE":2011,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.30735874176025,38.83312220703294]}},{"type":"Feature","properties":{"NAME":"Mt. Elbert","ELEVATION":"14,433","DESC":"14er","DATE":2011,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.4454174041748,39.11740887027575]}},{"type":"Feature","properties":{"NAME":"Geissler Mountain West","ELEVATION":"13,301","DESC":"13er","DATE":2013,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.58266067504883,39.14523888896102]}},{"type":"Feature","properties":{"NAME":"Unnamed 13545","ELEVATION":"13,545","DESC":"13er","DATE":2013,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.55884265899658,39.14397412670876]}},{"type":"Feature","properties":{"NAME":"West Buffalo Peak","ELEVATION":"13,326","DESC":"13er","DATE":2011,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.12441062927246,38.991770891415506]}},{"type":"Feature","properties":{"NAME":"East Buffalo Peak","ELEVATION":"13,300","DESC":"13er","DATE":2011,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.10866069793701,38.98713434381036]}},{"type":"Feature","properties":{"NAME":"Buckskin Benchmark","ELEVATION":"13,370","DESC":"13er","DATE":2012,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.99082851409912,39.113046949642246]}},{"type":"Feature","properties":{"NAME":"Redcloud Peak","ELEVATION":"14,034","DESC":"14er","DATE":2012,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-107.42152690887451,37.94057616029817]}},{"type":"Feature","properties":{"NAME":"Sunshine Peak","ELEVATION":"14,001","DESC":"14er","DATE":2012,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-107.42551803588866,37.922636048551595]}},{"type":"Feature","properties":{"NAME":"Sundog","ELEVATION":"13,432","DESC":"13er","DATE":2012,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-107.43847846984863,37.9319451435616]}},{"type":"Feature","properties":{"NAME":"Mt. Evans","ELEVATION":"14,264","DESC":"14er","DATE":2013,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-105.6430721282959,39.58822811961463]}},{"type":"Feature","properties":{"NAME":"Mt. Bierstadt","ELEVATION":"14,060","DESC":"14er","DATE":2013,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-105.66869258880615,39.58250634768133]}},{"type":"Feature","properties":{"NAME":"Torreys Peak","ELEVATION":"14,267","DESC":"14er","DATE":2013,"NUMBER_ASCENTS":2,"WINTER_ASCENT":"Yes"},"geometry":{"type":"Point","coordinates":[-105.82108497619627,39.64231353699019]}},{"type":"Feature","properties":{"NAME":"Grays Peak","ELEVATION":"14,270","DESC":"14er","DATE":2013,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-105.81722259521484,39.63362172718818]}},{"type":"Feature","properties":{"NAME":"Crestone Needle","ELEVATION":"14,197","DESC":"14er","DATE":2013,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-105.57642459869383,37.96460227884654]}},{"type":"Feature","properties":{"NAME":"James Peak","ELEVATION":"13,294","DESC":"13er","DATE":2013,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-105.69027900695801,39.851972892787906]}},{"type":"Feature","properties":{"NAME":"La Plata Peak","ELEVATION":"14,336","DESC":"14er","DATE":2013,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.47262573242188,39.0294524166226]}},{"type":"Feature","properties":{"NAME":"Mt. Belford","ELEVATION":"14,197","DESC":"14er","DATE":2013,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.36078834533691,38.96047664397741]}},{"type":"Feature","properties":{"NAME":"Mt. Oxford","ELEVATION":"14,153","DESC":"14er","DATE":2013,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.33830070495605,38.96474788913438]}},{"type":"Feature","properties":{"NAME":"Mt. Princeton","ELEVATION":"14,197","DESC":"14er","DATE":2013,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.24225616455078,38.74906303476857]}},{"type":"Feature","properties":{"NAME":"Mt. Massive","ELEVATION":"14,421","DESC":"14er","DATE":2013,"NUMBER_ASCENTS":1},"geometry":{"type":"Point","coordinates":[-106.47558689117432,39.18759529082889]}},{"type":"Feature","properties":{"NAME":"Grizzly Peak D","ELEVATION":"13,427","DESC":"13er","DATE":2014,"NUMBER_ASCENTS":1,"WINTER_ASCENT":"Yes"},"geometry":{"type":"Point","coordinates":[-105.84842205047607,39.64406498619427]}},{"type":"Feature","properties":{"NAME":"\"Cupid\"","ELEVATION":"13,117","DESC":"13er","DATE":2014,"NUMBER_ASCENTS":1,"WINTER_ASCENT":"Yes"},"geometry":{"type":"Point","coordinates":[-105.85713386535645,39.65790978714922]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Pacific Peak",
+        "ELEVATION": "13,950",
+        "DESC": "13er",
+        "DATE": 2012,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.12363815307616,
+          39.423132679304025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Fletcher Mountain",
+        "ELEVATION": "13,951",
+        "DESC": "13er",
+        "DATE": 2011,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.12878799438477,
+          39.403305486149264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Quandary Peak",
+        "ELEVATION": "14,265",
+        "DESC": "14er",
+        "DATE": 2013,
+        "NUMBER_ASCENTS": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.10527038574219,
+          39.397336330701755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "North Star Mountain",
+        "ELEVATION": "13,614",
+        "DESC": "13er",
+        "DATE": 2011,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.12089157104492,
+          39.376705650249434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "East Partner Peak",
+        "ELEVATION": "13,057",
+        "DESC": "13er",
+        "DATE": 2013,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.27718925476073,
+          39.699460572011105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mt. Democrat",
+        "ELEVATION": "14,148",
+        "DESC": "14er",
+        "DATE": 2011,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.13994598388672,
+          39.339475399396406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mt. Cameron",
+        "ELEVATION": "14,238",
+        "DESC": "14er",
+        "DATE": 2011,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.11848831176758,
+          39.34704251121735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mt. Lincoln",
+        "ELEVATION": "14,286",
+        "DESC": "14er",
+        "DATE": 2011,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.11127853393555,
+          39.351589022085406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mt. Bross",
+        "ELEVATION": "14,172",
+        "DESC": "14er",
+        "DATE": 2011,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.10681533813477,
+          39.334131462900494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mt. Buckskin",
+        "ELEVATION": "13,865",
+        "DESC": "13er",
+        "DATE": 2011,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.15106105804443,
+          39.320720034915816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mt. Tweto",
+        "ELEVATION": "13,672",
+        "DESC": "13er",
+        "DATE": 2013,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.16938591003418,
+          39.322081212938706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Pennsylvania Mountain",
+        "ELEVATION": "13,006",
+        "DESC": "13er",
+        "DATE": 2013,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.14217758178711,
+          39.26442376336898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mt. Sherman",
+        "ELEVATION": "14,036",
+        "DESC": "14er",
+        "DATE": 2013,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.17058753967285,
+          39.22327729911215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Weston Peak",
+        "ELEVATION": "13,572",
+        "DESC": "13er",
+        "DATE": 2013,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.16389274597168,
+          39.13605220415018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Ptarmigan Peak",
+        "ELEVATION": "13,739",
+        "DESC": "13er",
+        "DATE": 2013,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1742353439331,
+          39.15023114963322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Pikes Peak",
+        "ELEVATION": "14,110",
+        "DESC": "14er",
+        "DATE": 2011,
+        "NUMBER_ASCENTS": 4,
+        "WINTER_ASCENT": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.04337310791014,
+          38.83957390576818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Sentinel ",
+        "ELEVATION": "12,572",
+        "DESC": "12er",
+        "DATE": 2011,
+        "NUMBER_ASCENTS": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.10439872741699,
+          38.84024244214068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Boulder Mountain",
+        "ELEVATION": "13,528",
+        "DESC": "13er",
+        "DATE": 2011,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.292724609375,
+          38.68014968334621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mt. Mamma",
+        "ELEVATION": "13,646",
+        "DESC": "13er",
+        "DATE": 2011,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.31787300109863,
+          38.66932780528148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Grizzly Mountain",
+        "ELEVATION": "13,708",
+        "DESC": "13er",
+        "DATE": 2011,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.31126403808594,
+          38.645500507798715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Unnamed 12581",
+        "ELEVATION": "12,581",
+        "DESC": "12er",
+        "DATE": 2011,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.39572143554688,
+          38.82252410624229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Turner Peak",
+        "ELEVATION": "13,233",
+        "DESC": "13er",
+        "DATE": 2011,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.37868404388428,
+          38.8198158211076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Unnamed 12956",
+        "ELEVATION": "12,956",
+        "DESC": "12er",
+        "DATE": 2011,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.37040138244629,
+          38.838303669356904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mt. Yale",
+        "ELEVATION": "14,196",
+        "DESC": "14er",
+        "DATE": 2011,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.31366729736328,
+          38.843986129756615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mascot peak",
+        "ELEVATION": "13,435",
+        "DESC": "13er",
+        "DATE": 2011,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.30735874176025,
+          38.83312220703294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mt. Elbert",
+        "ELEVATION": "14,433",
+        "DESC": "14er",
+        "DATE": 2011,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4454174041748,
+          39.11740887027575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Geissler Mountain West",
+        "ELEVATION": "13,301",
+        "DESC": "13er",
+        "DATE": 2013,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.58266067504883,
+          39.14523888896102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Unnamed 13545",
+        "ELEVATION": "13,545",
+        "DESC": "13er",
+        "DATE": 2013,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.55884265899658,
+          39.14397412670876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "West Buffalo Peak",
+        "ELEVATION": "13,326",
+        "DESC": "13er",
+        "DATE": 2011,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.12441062927246,
+          38.991770891415506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "East Buffalo Peak",
+        "ELEVATION": "13,300",
+        "DESC": "13er",
+        "DATE": 2011,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.10866069793701,
+          38.98713434381036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Buckskin Benchmark",
+        "ELEVATION": "13,370",
+        "DESC": "13er",
+        "DATE": 2012,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.99082851409912,
+          39.113046949642246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Redcloud Peak",
+        "ELEVATION": "14,034",
+        "DESC": "14er",
+        "DATE": 2012,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.42152690887451,
+          37.94057616029817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Sunshine Peak",
+        "ELEVATION": "14,001",
+        "DESC": "14er",
+        "DATE": 2012,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.42551803588866,
+          37.922636048551595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Sundog",
+        "ELEVATION": "13,432",
+        "DESC": "13er",
+        "DATE": 2012,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.43847846984863,
+          37.9319451435616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mt. Evans",
+        "ELEVATION": "14,264",
+        "DESC": "14er",
+        "DATE": 2013,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6430721282959,
+          39.58822811961463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mt. Bierstadt",
+        "ELEVATION": "14,060",
+        "DESC": "14er",
+        "DATE": 2013,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.66869258880615,
+          39.58250634768133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Torreys Peak",
+        "ELEVATION": "14,267",
+        "DESC": "14er",
+        "DATE": 2013,
+        "NUMBER_ASCENTS": 2,
+        "WINTER_ASCENT": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.82108497619627,
+          39.64231353699019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Grays Peak",
+        "ELEVATION": "14,270",
+        "DESC": "14er",
+        "DATE": 2013,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.81722259521484,
+          39.63362172718818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Crestone Needle",
+        "ELEVATION": "14,197",
+        "DESC": "14er",
+        "DATE": 2013,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.57642459869383,
+          37.96460227884654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "James Peak",
+        "ELEVATION": "13,294",
+        "DESC": "13er",
+        "DATE": 2013,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.69027900695801,
+          39.851972892787906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "La Plata Peak",
+        "ELEVATION": "14,336",
+        "DESC": "14er",
+        "DATE": 2013,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.47262573242188,
+          39.0294524166226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mt. Belford",
+        "ELEVATION": "14,197",
+        "DESC": "14er",
+        "DATE": 2013,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.36078834533691,
+          38.96047664397741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mt. Oxford",
+        "ELEVATION": "14,153",
+        "DESC": "14er",
+        "DATE": 2013,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.33830070495605,
+          38.96474788913438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mt. Princeton",
+        "ELEVATION": "14,197",
+        "DESC": "14er",
+        "DATE": 2013,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.24225616455078,
+          38.74906303476857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mt. Massive",
+        "ELEVATION": "14,421",
+        "DESC": "14er",
+        "DATE": 2013,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.47558689117432,
+          39.18759529082889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Grizzly Peak D",
+        "ELEVATION": "13,427",
+        "DESC": "13er",
+        "DATE": 2014,
+        "NUMBER_ASCENTS": 1,
+        "WINTER_ASCENT": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.84842205047607,
+          39.64406498619427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "\"Cupid\"",
+        "ELEVATION": "13,117",
+        "DESC": "13er",
+        "DATE": 2014,
+        "NUMBER_ASCENTS": 1,
+        "WINTER_ASCENT": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.85713386535645,
+          39.65790978714922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9628767,
+          39.678752,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Driscoll",
+        "NAME": "Driscoll",
+        "ELEVATION": "5,280",
+        "DESC": "5er",
+        "DATE": 2014,
+        "NUMBER_ASCENTS": 1,
+        "WINTER_ASCENT": "no"
+      }
+    }
+  ]
+}
