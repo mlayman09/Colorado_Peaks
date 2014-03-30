@@ -434,7 +434,8 @@
         "ELEVATION": "14,433",
         "DESC": "14er",
         "DATE": 2011,
-        "NUMBER_ASCENTS": 1
+        "NUMBER_ASCENTS": 1,
+        "WINTER_ASCENT": "Yes"
       },
       "geometry": {
         "type": "Point",
