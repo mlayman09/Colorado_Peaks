@@ -804,6 +804,23 @@
           39.65790978714922
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mt. Silverheels",
+        "ELEVATION": "13,822",
+        "DESC": "13er",
+        "DATE": 2014,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.0054063796997,
+          39.339276253811555
+        ]
+      }
     }
   ]
 }
