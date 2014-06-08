@@ -821,6 +821,40 @@
           39.339276253811555
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mt. Shavano",
+        "ELEVATION": "14,229",
+        "DESC": "14er",
+        "DATE": 2014,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.23929500579834,
+          38.61915055848114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Tabeguache Peak",
+        "ELEVATION": "14,155",
+        "DESC": "14er",
+        "DATE": 2014,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.25066757202148,
+          38.62555455398717
+        ]
+      }
     }
   ]
 }
