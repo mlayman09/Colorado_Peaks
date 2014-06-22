@@ -855,6 +855,38 @@
           38.62555455398717
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Castle Peak",
+        "ELEVATION": "14,265",
+        "DESC": "14er",
+        "DATE": 2014
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.86118125915527,
+          39.009647108856846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Conundrum Peak",
+        "ELEVATION": "14,060",
+        "DESC": "14er",
+        "DATE": 2014
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.86276912689209,
+          39.015715991295814
+        ]
+      }
     }
   ]
 }
