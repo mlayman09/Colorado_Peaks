@@ -1,1 +1,1977 @@
-{"type":"FeatureCollection","features":[{"geometry": {"type": "Point", "coordinates": [-106.44541699999996, 39.11807500000003]}, "type": "Feature", "id": 1, "properties": {"Winter_Ascent": "Yes", "Climbed_YesNo": "Climbed", "Name": "Mt. Elbert", "Rank": "1", "Range": "Sawatch", "Date": "2011", "Elevation": "14,433", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-106.47554799999995, 39.187298000000055]}, "type": "Feature", "id": 2, "properties": {"Winter_Ascent": "0", "Climbed_YesNo": "Climbed", "Name": "Mt. Massive", "Rank": "2", "Range": "Sawatch", "Date": "2013", "Elevation": "14,421", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-106.32061799999997, 38.92432800000006]}, "type": "Feature", "id": 3, "properties": {"Range": "Sawatch", "Elevation": "14,42", "Name": "Mt. Harvard", "Rank": "3", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-105.48544299999998, 37.577473000000055]}, "type": "Feature", "id": 4, "properties": {"Range": "Sangre de Cristo", "Elevation": "14,345", "Name": "Blanca Peak", "Rank": "4", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-106.47314499999999, 39.029251000000045]}, "type": "Feature", "id": 5, "properties": {"Winter_Ascent": "0", "Climbed_YesNo": "Climbed", "Name": "La Plata Peak", "Rank": "5", "Range": "Sawatch", "Date": "2013", "Elevation": "14,336", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-107.46216599999997, 38.071507000000054]}, "type": "Feature", "id": 6, "properties": {"Range": "San Juan", "Elevation": "14,309", "Name": "Uncompahgre Peak", "Rank": "6", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-105.58530399999995, 37.966972000000055]}, "type": "Feature", "id": 7, "properties": {"Range": "Sangre de Cristo", "Elevation": "14,294", "Name": "Crestone Peak", "Rank": "7", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-106.111404, 39.351391000000035]}, "type": "Feature", "id": 8, "properties": {"Winter_Ascent": "0", "Climbed_YesNo": "Climbed", "Name": "Mt. Lincoln", "Rank": "8", "Range": "Mosquito", "Date": "2011", "Elevation": "14,286", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-105.81751999999994, 39.63382000000007]}, "type": "Feature", "id": 9, "properties": {"Winter_Ascent": "0", "Climbed_YesNo": "Climbed", "Name": "Grays Peak", "Rank": "9", "Range": "Front", "Date": "2013", "Elevation": "14,27", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-106.24620099999999, 38.67408800000004]}, "type": "Feature", "id": 10, "properties": {"Range": "Sawatch", "Elevation": "14,269", "Name": "Mt. Antero", "Rank": "10", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-105.82125899999994, 39.642742000000055]}, "type": "Feature", "id": 11, "properties": {"Winter_Ascent": "Yes", "Climbed_YesNo": "Climbed", "Name": "Torreys Peak", "Rank": "11", "Range": "Front", "Date": "2013", "Elevation": "14,267", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-106.10642999999999, 39.39723600000008]}, "type": "Feature", "id": 12, "properties": {"Winter_Ascent": "0", "Climbed_YesNo": "Climbed", "Name": "Quandary Peak", "Rank": "13", "Range": "Tenmile", "Date": "2013", "Elevation": "14,265", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-106.86143999999996, 39.00964700000003]}, "type": "Feature", "id": 13, "properties": {"Winter_Ascent": "0", "Elevation": "14,265", "Name": "Castle Peak", "Rank": "12", "Range": "Elk", "Date": "2014", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-105.64333299999998, 39.58836000000008]}, "type": "Feature", "id": 14, "properties": {"Winter_Ascent": "0", "Climbed_YesNo": "Climbed", "Name": "Mt. Evans", "Rank": "14", "Range": "Front", "Date": "2013", "Elevation": "14,264", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-105.61573799999996, 40.25490200000007]}, "type": "Feature", "id": 15, "properties": {"Range": "Front", "Elevation": "14,255", "Name": "Longs Peak", "Rank": "15", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-107.99156999999997, 37.83931000000007]}, "type": "Feature", "id": 16, "properties": {"Range": "San Juan", "Elevation": "14,246", "Name": "Mt. Wilson", "Rank": "16", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-106.11857599999996, 39.34684400000003]}, "type": "Feature", "id": 17, "properties": {"Winter_Ascent": "0", "Climbed_YesNo": "Climbed", "Name": "Mt. Cameron", "Range": "Mosquito", "Date": "2011", "Elevation": "14,238", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-106.23929599999997, 38.619083000000046]}, "type": "Feature", "id": 18, "properties": {"Winter_Ascent": "0", "Climbed_YesNo": "Climbed", "Name": "Mt. Shavano", "Rank": "17", "Range": "Sawatch", "Date": "2014", "Elevation": "14,229", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-106.24243199999995, 38.74906200000004]}, "type": "Feature", "id": 19, "properties": {"Winter_Ascent": "0", "Climbed_YesNo": "Climbed", "Name": "Mt. Princeton", "Rank": "20", "Range": "Sawatch", "Date": "2013", "Elevation": "14,197", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-105.57668299999995, 37.96473700000007]}, "type": "Feature", "id": 20, "properties": {"Winter_Ascent": "0", "Climbed_YesNo": "Climbed", "Name": "Crestone Needle", "Rank": "19", "Range": "Sangre de Cristo", "Date": "2013", "Elevation": "14,197", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-106.36083199999996, 38.96057500000006]}, "type": "Feature", "id": 21, "properties": {"Winter_Ascent": "0", "Climbed_YesNo": "Climbed", "Name": "Mt. Belford", "Rank": "18", "Range": "Sawatch", "Date": "2013", "Elevation": "14,197", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-106.31396499999994, 38.844051000000036]}, "type": "Feature", "id": 22, "properties": {"Winter_Ascent": "0", "Climbed_YesNo": "Climbed", "Name": "Mt. Yale", "Rank": "21", "Range": "Sawatch", "Date": "2011", "Elevation": "14,196", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-106.10737599999999, 39.335060000000055]}, "type": "Feature", "id": 23, "properties": {"Winter_Ascent": "0", "Climbed_YesNo": "Climbed", "Name": "Mt. Bross", "Rank": "22", "Range": "Mosquito", "Date": "2011", "Elevation": "14,172", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-105.60256199999998, 37.97975900000006]}, "type": "Feature", "id": 24, "properties": {"Range": "Sangre de Cristo", "Elevation": "14,165", "Name": "Kit Carson Peak", "Rank": "23", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-108.00521899999995, 37.83927500000004]}, "type": "Feature", "id": 25, "properties": {"Range": "San Juan", "Elevation": "14,159", "Name": "El Diente Peak", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-106.98911299999997, 39.07071300000007]}, "type": "Feature", "id": 26, "properties": {"Range": "Elk", "Elevation": "14,156", "Name": "Maroon Peak", "Rank": "24", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-106.25070999999997, 38.62562200000008]}, "type": "Feature", "id": 27, "properties": {"Winter_Ascent": "0", "Climbed_YesNo": "Climbed", "Name": "Tabeguache Peak", "Rank": "25", "Range": "Sawatch", "Date": "2014", "Elevation": "14,155", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-106.33843199999995, 38.964680000000044]}, "type": "Feature", "id": 28, "properties": {"Winter_Ascent": "0", "Climbed_YesNo": "Climbed", "Name": "Mt. Oxford", "Rank": "26", "Range": "Sawatch", "Date": "2013", "Elevation": "14,153", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-107.79222899999996, 38.00360500000005]}, "type": "Feature", "id": 29, "properties": {"Range": "San Juan", "Elevation": "14,15", "Name": "Mt. Sneffels", "Rank": "27", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-106.13994599999995, 39.33954200000005]}, "type": "Feature", "id": 30, "properties": {"Winter_Ascent": "0", "Climbed_YesNo": "Climbed", "Name": "Mt. Democrat", "Rank": "28", "Range": "Mosquito", "Date": "2011", "Elevation": "14,148", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-107.08322099999998, 39.15016600000007]}, "type": "Feature", "id": 31, "properties": {"Range": "Elk", "Elevation": "14,13", "Name": "Capitol Peak", "Rank": "29", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-105.04435699999999, 38.84054200000003]}, "type": "Feature", "id": 32, "properties": {"Winter_Ascent": "Yes", "Climbed_YesNo": "Climbed", "Name": "Pikes Peak", "Rank": "30", "Range": "Front", "Date": "2011", "Elevation": "14,11", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-107.06652799999995, 39.118809000000056]}, "type": "Feature", "id": 33, "properties": {"Range": "Elk", "Elevation": "14,092", "Name": "Snowmass Mountain", "Rank": "31", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-107.62249799999995, 37.62194800000003]}, "type": "Feature", "id": 34, "properties": {"Range": "San Juan", "Elevation": "14,083", "Name": "Mt. Eolus", "Rank": "32", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-107.59177399999999, 37.62123500000007]}, "type": "Feature", "id": 35, "properties": {"Range": "San Juan", "Elevation": "14,082", "Name": "Windom Peak", "Rank": "33", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-105.606766, 37.980267000000026]}, "type": "Feature", "id": 36, "properties": {"Range": "Sangre de Cristo", "Elevation": "14,081", "Name": "Challenger Point", "Rank": "34", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-106.29748499999994, 38.90395700000005]}, "type": "Feature", "id": 37, "properties": {"Range": "Sawatch", "Elevation": "14,073", "Name": "Mt. Columbia", "Rank": "35", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-106.37847099999999, 38.94755900000007]}, "type": "Feature", "id": 38, "properties": {"Range": "Sawatch", "Elevation": "14,067", "Name": "Missouri Mountain", "Rank": "36", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-105.55535099999997, 37.976105000000075]}, "type": "Feature", "id": 39, "properties": {"Range": "Sangre de Cristo", "Elevation": "14,064", "Name": "Humboldt Peak", "Rank": "37", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-105.66860999999994, 39.58263800000003]}, "type": "Feature", "id": 40, "properties": {"Winter_Ascent": "0", "Climbed_YesNo": "Climbed", "Name": "Mt. Bierstadt", "Rank": "38", "Range": "Front", "Date": "2013", "Elevation": "14,06", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-106.86328099999997, 39.01514000000003]}, "type": "Feature", "id": 41, "properties": {"Winter_Ascent": "0                                                *", "Elevation": "14,06", "Name": "Conundrum Peak", "Range": "Elk", "Date": "2014", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-107.59589399999999, 37.62728500000003]}, "type": "Feature", "id": 42, "properties": {"Range": "San Juan", "Elevation": "14,059", "Name": "Sunlight Peak", "Rank": "39", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-107.50447799999995, 37.91302100000007]}, "type": "Feature", "id": 43, "properties": {"Range": "San Juan", "Elevation": "14,048", "Name": "Handies Peak", "Rank": "40", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-105.18559299999998, 37.12217300000003]}, "type": "Feature", "id": 44, "properties": {"Range": "Sangre de Cristo", "Elevation": "14,047", "Name": "Culebra Peak", "Rank": "41", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-105.49256899999995, 37.582508000000075]}, "type": "Feature", "id": 45, "properties": {"Range": "Sangre de Cristo", "Elevation": "14,042", "Name": "Ellingwood Point", "Rank": "42", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-105.44476299999997, 37.58380100000005]}, "type": "Feature", "id": 46, "properties": {"Range": "Sangre de Cristo", "Elevation": "14,042", "Name": "Mt. Lindsey", "Rank": "43", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-107.620995, 37.62541600000003]}, "type": "Feature", "id": 47, "properties": {"Range": "San Juan", "Elevation": "14,039", "Name": "North Eolus", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-105.49716199999995, 37.56662400000005]}, "type": "Feature", "id": 48, "properties": {"Range": "Sangre de Cristo", "Elevation": "14,037", "Name": "Little Bear Peak", "Rank": "44", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-106.16994499999998, 39.225006000000064]}, "type": "Feature", "id": 49, "properties": {"Winter_Ascent": "0", "Climbed_YesNo": "Climbed", "Name": "Mt. Sherman", "Rank": "45", "Range": "Mosquito", "Date": "2013", "Elevation": "14,036", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-107.42165399999999, 37.94088000000005]}, "type": "Feature", "id": 50, "properties": {"Winter_Ascent": "0", "Climbed_YesNo": "Climbed", "Name": "Redcloud Peak", "Rank": "46", "Range": "San Juan", "Date": "2012", "Elevation": "14,034", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-106.95018799999997, 39.07154500000007]}, "type": "Feature", "id": 51, "properties": {"Range": "Elk", "Elevation": "14,018", "Name": "Pyramid Peak", "Rank": "47", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-107.98479499999996, 37.85991300000006]}, "type": "Feature", "id": 52, "properties": {"Range": "San Juan", "Elevation": "14,017", "Name": "Wilson Peak", "Rank": "48", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-107.51083399999999, 38.06059300000004]}, "type": "Feature", "id": 53, "properties": {"Range": "San Juan", "Elevation": "14,015", "Name": "Wetterhorn Peak", "Rank": "49", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-106.93138899999997, 37.986897000000056]}, "type": "Feature", "id": 54, "properties": {"Range": "San Juan", "Elevation": "14,014", "Name": "San Luis Peak", "Rank": "50", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-106.98726699999997, 39.076077000000055]}, "type": "Feature", "id": 55, "properties": {"Range": "Elk", "Elevation": "14,014", "Name": "North Maroon Peak", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-106.481766, 39.46671300000003]}, "type": "Feature", "id": 56, "properties": {"Range": "Sawatch", "Elevation": "14,005", "Name": "Mt. of the Holy Cross", "Rank": "51", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-106.43812599999995, 38.94542300000006]}, "type": "Feature", "id": 57, "properties": {"Range": "Sawatch", "Elevation": "14,003", "Name": "Huron Peak", "Rank": "52", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-107.42560599999996, 37.922604000000035]}, "type": "Feature", "id": 58, "properties": {"Winter_Ascent": "0", "Climbed_YesNo": "Climbed", "Name": "Sunshine Peak", "Rank": "53", "Range": "San Juan", "Date": "2012", "Elevation": "14,001", "Description": "14er"}},{"geometry": {"type": "Point", "coordinates": [-106.59756999999996, 39.042340000000024]}, "type": "Feature", "id": 59, "properties": {"Range": "Sawatch", "Elevation": "13,988", "Name": "Grizzly Peak A", "Rank": "54", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-106.92342999999994, 38.02308000000005]}, "type": "Feature", "id": 60, "properties": {"Range": "San Juan", "Elevation": "13,983", "Name": "Stewart Peak", "Rank": "55", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-105.59810999999996, 37.97887000000003]}, "type": "Feature", "id": 61, "properties": {"Range": "Sangre de Cristo", "Elevation": "13,98", "Name": "Columbia Point", "Rank": "56", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-107.64659999999998, 37.63232000000005]}, "type": "Feature", "id": 62, "properties": {"Range": "San Juan", "Elevation": "13,972", "Name": "Pigeon Peak", "Rank": "57", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-106.22480999999999, 38.42264000000006]}, "type": "Feature", "id": 63, "properties": {"Range": "Sawatch", "Elevation": "13,971", "Name": "Mt. Ouray", "Rank": "58", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-106.43703999999997, 38.914870000000064]}, "type": "Feature", "id": 64, "properties": {"Range": "Sawatch", "Elevation": "13,951", "Name": "Ice Mountain", "Rank": "59", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-106.12888999999996, 39.40333000000004]}, "type": "Feature", "id": 65, "properties": {"Winter_Ascent": "0", "Climbed_YesNo": "Climbed", "Name": "Fletcher Mountain", "Rank": "60", "Range": "Tenmile", "Date": "2011", "Elevation": "13,951", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-106.12340999999998, 39.423230000000046]}, "type": "Feature", "id": 66, "properties": {"Winter_Ascent": "0", "Climbed_YesNo": "Climbed", "Name": "Pacific Peak", "Rank": "61", "Range": "Tenmile", "Date": "2012", "Elevation": "13,95", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-106.85910999999999, 39.03427000000005]}, "type": "Feature", "id": 67, "properties": {"Range": "Elk", "Elevation": "13,943", "Name": "Cathedral Peak A", "Rank": "62", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-106.48231999999996, 39.12841000000003]}, "type": "Feature", "id": 68, "properties": {"Range": "Sawatch", "Elevation": "13,94", "Name": "French Mountain", "Rank": "63", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-106.41986999999995, 39.02108000000004]}, "type": "Feature", "id": 69, "properties": {"Range": "Sawatch", "Elevation": "13,933", "Name": "Mt. Hope A", "Rank": "64", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-106.95172999999994, 39.062670000000026]}, "type": "Feature", "id": 70, "properties": {"Range": "Elk", "Elevation": "13,932", "Name": "\"Thunder Pyramid\"", "Rank": "65", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-105.60474999999997, 38.00727000000006]}, "type": "Feature", "id": 71, "properties": {"Range": "Sangre de Cristo", "Elevation": "13,931", "Name": "Mt. Adams A", "Rank": "66", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-107.98414999999994, 37.84513000000004]}, "type": "Feature", "id": 72, "properties": {"Range": "San Juan", "Elevation": "13,913", "Name": "Gladstone Peak", "Rank": "67", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-105.60502999999994, 40.24854000000005]}, "type": "Feature", "id": 73, "properties": {"Range": "Front", "Elevation": "13,911", "Name": "Mt. Meeker", "Rank": "68", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-106.49385999999998, 39.114040000000045]}, "type": "Feature", "id": 74, "properties": {"Range": "Sawatch", "Elevation": "13,908", "Name": "Casco Peak", "Rank": "69", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-105.18126999999998, 37.11223000000007]}, "type": "Feature", "id": 75, "properties": {"Range": "Sangre de Cristo", "Elevation": "13,908", "Name": "Red Mountain A", "Rank": "70", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-106.38120999999995, 38.92909000000003]}, "type": "Feature", "id": 76, "properties": {"Range": "Sawatch", "Elevation": "13,904", "Name": "Emerald Peak", "Rank": "71", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-106.18499999999995, 39.18540000000007]}, "type": "Feature", "id": 77, "properties": {"Range": "Mosquito", "Elevation": "13,898", "Name": "Horseshoe Mountain", "Rank": "72", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-106.86643999999995, 37.93643000000003]}, "type": "Feature", "id": 78, "properties": {"Range": "San Juan", "Elevation": "13,895", "Name": "\"Phoenix Peak\"", "Rank": "73", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-107.82846999999998, 37.799330000000054]}, "type": "Feature", "id": 79, "properties": {"Range": "San Juan", "Elevation": "13,894", "Name": "Vermilion Peak", "Rank": "74", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-106.28331999999995, 38.655290000000036]}, "type": "Feature", "id": 80, "properties": {"Range": "Sawatch", "Elevation": "13,87", "Name": "Cronin Peak", "Rank": "75", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-106.14686999999998, 39.31863000000004]}, "type": "Feature", "id": 81, "properties": {"Winter_Ascent": "0", "Climbed_YesNo": "Climbed", "Name": "Mt. Buckskin", "Rank": "76", "Range": "Mosquito", "Date": "2011", "Elevation": "13,865", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-107.60280999999998, 37.68926000000005]}, "type": "Feature", "id": 82, "properties": {"Range": "San Juan", "Elevation": "13,864", "Name": "Vestal Peak", "Rank": "77", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-107.52641999999997, 37.89649000000003]}, "type": "Feature", "id": 83, "properties": {"Range": "San Juan", "Elevation": "13,86", "Name": "Jones Mountain A", "Rank": "78", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-106.43434999999994, 38.91966000000008]}, "type": "Feature", "id": 84, "properties": {"Range": "Sawatch", "Elevation": "13,86", "Name": "North Apostle", "Rank": "79", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-106.14874999999995, 39.36819000000003]}, "type": "Feature", "id": 85, "properties": {"Range": "Mosquito", "Elevation": "13,857", "Name": "Clinton Peak", "Rank": "80", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-106.18318, 39.23985000000005]}, "type": "Feature", "id": 86, "properties": {"Range": "Mosquito", "Elevation": "13,855", "Name": "Dyer Mountain", "Rank": "81", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-106.11444999999998, 39.434570000000065]}, "type": "Feature", "id": 87, "properties": {"Range": "Tenmile", "Elevation": "13,852", "Name": "Crystal Peak A", "Rank": "82", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-105.79405999999994, 39.636370000000056]}, "type": "Feature", "id": 88, "properties": {"Range": "Front", "Elevation": "13,85", "Name": "Mt. Edwards", "Rank": "83", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-105.49878999999999, 37.614280000000065]}, "type": "Feature", "id": 89, "properties": {"Range": "Sangre de Cristo", "Elevation": "13,849", "Name": "California Peak", "Rank": "84", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-106.50639999999999, 39.178600000000074]}, "type": "Feature", "id": 90, "properties": {"Range": "Sawatch", "Elevation": "13,845", "Name": "Mt. Oklahoma", "Rank": "85", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-107.46669999999995, 37.86433000000005]}, "type": "Feature", "id": 91, "properties": {"Range": "San Juan", "Elevation": "13,841", "Name": "Half Peak", "Rank": "86", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-106.12592999999998, 39.413500000000056]}, "type": "Feature", "id": 92, "properties": {"Range": "Tenmile", "Elevation": "13,841", "Name": "Atlantic Peak", "Rank": "87", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-107.06019999999995, 39.11199000000005]}, "type": "Feature", "id": 93, "properties": {"Range": "Elk", "Elevation": "13,841", "Name": "Hagerman Peak", "Rank": "88", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-107.63989999999995, 37.62748000000005]}, "type": "Feature", "id": 94, "properties": {"Range": "San Juan", "Elevation": "13,835", "Name": "Turret Peak A", "Rank": "89", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-107.39828999999997, 37.94708000000003]}, "type": "Feature", "id": 95, "properties": {"Range": "San Juan", "Elevation": "13,832", "Name": "Unnamed 13832", "Rank": "90", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-106.48587999999995, 39.45896000000005]}, "type": "Feature", "id": 96, "properties": {"Range": "Sawatch", "Elevation": "13,831", "Name": "Holy Cross Ridge", "Rank": "91", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-107.59203999999994, 37.61253000000005]}, "type": "Feature", "id": 97, "properties": {"Range": "San Juan", "Elevation": "13,83", "Name": "Jupiter Mountain", "Rank": "92", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-105.44791999999995, 37.60026000000005]}, "type": "Feature", "id": 98, "properties": {"Range": "Sangre de Cristo", "Elevation": "13,828", "Name": "\"Huerfano Peak\"", "Rank": "93", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-107.58404999999999, 37.64552000000003]}, "type": "Feature", "id": 99, "properties": {"Range": "San Juan", "Elevation": "13,824", "Name": "Jagged Mountain", "Rank": "94", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-106.51210999999995, 39.093560000000025]}, "type": "Feature", "id": 100, "properties": {"Range": "Sawatch", "Elevation": "13,823", "Name": "\"Lackawanna\"", "Rank": "95", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-106.00541999999996, 39.339500000000044]}, "type": "Feature", "id": 101, "properties": {"Winter_Ascent": "0", "Climbed_YesNo": "Climbed", "Name": "Mt. Silverheels", "Rank": "96", "Range": "Front", "Date": "2014", "Elevation": "13,822", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-107.39236999999997, 37.67963000000003]}, "type": "Feature", "id": 102, "properties": {"Range": "San Juan", "Elevation": "13,821", "Name": "Rio Grande Pyramid", "Rank": "97", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-107.76144999999997, 38.000500000000045]}, "type": "Feature", "id": 103, "properties": {"Range": "San Juan", "Elevation": "13,819", "Name": "Teakettle Mountain", "Rank": "98", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-107.37815999999998, 37.95461000000006]}, "type": "Feature", "id": 104, "properties": {"Range": "San Juan", "Elevation": "13,811", "Name": "Unnamed 13811", "Rank": "99", "Description": "13er"}},{"geometry": {"type": "Point", "coordinates": [-107.82399999999996, 37.98818000000006]}, "type": "Feature", "id": 105, "properties": {"Range": "San Juan", "Elevation": "13,809", "Name": "Dallas Peak", "Rank": "100", "Description": "13er"}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.44541699999996,
+          39.11807500000003
+        ]
+      },
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "Winter_Ascent": "Yes",
+        "Climbed_YesNo": "Climbed",
+        "Name": "Mt. Elbert",
+        "Rank": "1",
+        "Range": "Sawatch",
+        "Date": "2011",
+        "Elevation": "14,433",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.47554799999995,
+          39.187298000000055
+        ]
+      },
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "Winter_Ascent": "0",
+        "Climbed_YesNo": "Climbed",
+        "Name": "Mt. Massive",
+        "Rank": "2",
+        "Range": "Sawatch",
+        "Date": "2013",
+        "Elevation": "14,421",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.32061799999997,
+          38.92432800000006
+        ]
+      },
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "Range": "Sawatch",
+        "Elevation": "14,42",
+        "Name": "Mt. Harvard",
+        "Rank": "3",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.48544299999998,
+          37.577473000000055
+        ]
+      },
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "Range": "Sangre de Cristo",
+        "Elevation": "14,345",
+        "Name": "Blanca Peak",
+        "Rank": "4",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.47314499999999,
+          39.029251000000045
+        ]
+      },
+      "type": "Feature",
+      "id": 5,
+      "properties": {
+        "Winter_Ascent": "0",
+        "Climbed_YesNo": "Climbed",
+        "Name": "La Plata Peak",
+        "Rank": "5",
+        "Range": "Sawatch",
+        "Date": "2013",
+        "Elevation": "14,336",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.46216599999997,
+          38.071507000000054
+        ]
+      },
+      "type": "Feature",
+      "id": 6,
+      "properties": {
+        "Range": "San Juan",
+        "Elevation": "14,309",
+        "Name": "Uncompahgre Peak",
+        "Rank": "6",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.58530399999995,
+          37.966972000000055
+        ]
+      },
+      "type": "Feature",
+      "id": 7,
+      "properties": {
+        "Range": "Sangre de Cristo",
+        "Elevation": "14,294",
+        "Name": "Crestone Peak",
+        "Rank": "7",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.111404,
+          39.351391000000035
+        ]
+      },
+      "type": "Feature",
+      "id": 8,
+      "properties": {
+        "Winter_Ascent": "0",
+        "Climbed_YesNo": "Climbed",
+        "Name": "Mt. Lincoln",
+        "Rank": "8",
+        "Range": "Mosquito",
+        "Date": "2011",
+        "Elevation": "14,286",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.81751999999994,
+          39.63382000000007
+        ]
+      },
+      "type": "Feature",
+      "id": 9,
+      "properties": {
+        "Winter_Ascent": "0",
+        "Climbed_YesNo": "Climbed",
+        "Name": "Grays Peak",
+        "Rank": "9",
+        "Range": "Front",
+        "Date": "2013",
+        "Elevation": "14,27",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.24620099999999,
+          38.67408800000004
+        ]
+      },
+      "type": "Feature",
+      "id": 10,
+      "properties": {
+        "Range": "Sawatch",
+        "Elevation": "14,269",
+        "Name": "Mt. Antero",
+        "Rank": "10",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.82125899999994,
+          39.642742000000055
+        ]
+      },
+      "type": "Feature",
+      "id": 11,
+      "properties": {
+        "Winter_Ascent": "Yes",
+        "Climbed_YesNo": "Climbed",
+        "Name": "Torreys Peak",
+        "Rank": "11",
+        "Range": "Front",
+        "Date": "2013",
+        "Elevation": "14,267",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.10642999999999,
+          39.39723600000008
+        ]
+      },
+      "type": "Feature",
+      "id": 12,
+      "properties": {
+        "Winter_Ascent": "0",
+        "Climbed_YesNo": "Climbed",
+        "Name": "Quandary Peak",
+        "Rank": "13",
+        "Range": "Tenmile",
+        "Date": "2013",
+        "Elevation": "14,265",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.86143999999996,
+          39.00964700000003
+        ]
+      },
+      "type": "Feature",
+      "id": 13,
+      "properties": {
+        "Winter_Ascent": "0",
+        "Elevation": "14,265",
+        "Name": "Castle Peak",
+        "Rank": "12",
+        "Range": "Elk",
+        "Date": "2014",
+        "Description": "14er",
+        "Climbed_YesNo": "Climbed"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.64333299999998,
+          39.58836000000008
+        ]
+      },
+      "type": "Feature",
+      "id": 14,
+      "properties": {
+        "Winter_Ascent": "0",
+        "Climbed_YesNo": "Climbed",
+        "Name": "Mt. Evans",
+        "Rank": "14",
+        "Range": "Front",
+        "Date": "2013",
+        "Elevation": "14,264",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.61573799999996,
+          40.25490200000007
+        ]
+      },
+      "type": "Feature",
+      "id": 15,
+      "properties": {
+        "Range": "Front",
+        "Elevation": "14,255",
+        "Name": "Longs Peak",
+        "Rank": "15",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.99156999999997,
+          37.83931000000007
+        ]
+      },
+      "type": "Feature",
+      "id": 16,
+      "properties": {
+        "Range": "San Juan",
+        "Elevation": "14,246",
+        "Name": "Mt. Wilson",
+        "Rank": "16",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.11857599999996,
+          39.34684400000003
+        ]
+      },
+      "type": "Feature",
+      "id": 17,
+      "properties": {
+        "Winter_Ascent": "0",
+        "Climbed_YesNo": "Climbed",
+        "Name": "Mt. Cameron",
+        "Range": "Mosquito",
+        "Date": "2011",
+        "Elevation": "14,238",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.23929599999997,
+          38.619083000000046
+        ]
+      },
+      "type": "Feature",
+      "id": 18,
+      "properties": {
+        "Winter_Ascent": "0",
+        "Climbed_YesNo": "Climbed",
+        "Name": "Mt. Shavano",
+        "Rank": "17",
+        "Range": "Sawatch",
+        "Date": "2014",
+        "Elevation": "14,229",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.24243199999995,
+          38.74906200000004
+        ]
+      },
+      "type": "Feature",
+      "id": 19,
+      "properties": {
+        "Winter_Ascent": "0",
+        "Climbed_YesNo": "Climbed",
+        "Name": "Mt. Princeton",
+        "Rank": "20",
+        "Range": "Sawatch",
+        "Date": "2013",
+        "Elevation": "14,197",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.57668299999995,
+          37.96473700000007
+        ]
+      },
+      "type": "Feature",
+      "id": 20,
+      "properties": {
+        "Winter_Ascent": "0",
+        "Climbed_YesNo": "Climbed",
+        "Name": "Crestone Needle",
+        "Rank": "19",
+        "Range": "Sangre de Cristo",
+        "Date": "2013",
+        "Elevation": "14,197",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.36083199999996,
+          38.96057500000006
+        ]
+      },
+      "type": "Feature",
+      "id": 21,
+      "properties": {
+        "Winter_Ascent": "0",
+        "Climbed_YesNo": "Climbed",
+        "Name": "Mt. Belford",
+        "Rank": "18",
+        "Range": "Sawatch",
+        "Date": "2013",
+        "Elevation": "14,197",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.31396499999994,
+          38.844051000000036
+        ]
+      },
+      "type": "Feature",
+      "id": 22,
+      "properties": {
+        "Winter_Ascent": "0",
+        "Climbed_YesNo": "Climbed",
+        "Name": "Mt. Yale",
+        "Rank": "21",
+        "Range": "Sawatch",
+        "Date": "2011",
+        "Elevation": "14,196",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.10737599999999,
+          39.335060000000055
+        ]
+      },
+      "type": "Feature",
+      "id": 23,
+      "properties": {
+        "Winter_Ascent": "0",
+        "Climbed_YesNo": "Climbed",
+        "Name": "Mt. Bross",
+        "Rank": "22",
+        "Range": "Mosquito",
+        "Date": "2011",
+        "Elevation": "14,172",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.60256199999998,
+          37.97975900000006
+        ]
+      },
+      "type": "Feature",
+      "id": 24,
+      "properties": {
+        "Range": "Sangre de Cristo",
+        "Elevation": "14,165",
+        "Name": "Kit Carson Peak",
+        "Rank": "23",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.00521899999995,
+          37.83927500000004
+        ]
+      },
+      "type": "Feature",
+      "id": 25,
+      "properties": {
+        "Range": "San Juan",
+        "Elevation": "14,159",
+        "Name": "El Diente Peak",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.98911299999997,
+          39.07071300000007
+        ]
+      },
+      "type": "Feature",
+      "id": 26,
+      "properties": {
+        "Range": "Elk",
+        "Elevation": "14,156",
+        "Name": "Maroon Peak",
+        "Rank": "24",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.25070999999997,
+          38.62562200000008
+        ]
+      },
+      "type": "Feature",
+      "id": 27,
+      "properties": {
+        "Winter_Ascent": "0",
+        "Climbed_YesNo": "Climbed",
+        "Name": "Tabeguache Peak",
+        "Rank": "25",
+        "Range": "Sawatch",
+        "Date": "2014",
+        "Elevation": "14,155",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.33843199999995,
+          38.964680000000044
+        ]
+      },
+      "type": "Feature",
+      "id": 28,
+      "properties": {
+        "Winter_Ascent": "0",
+        "Climbed_YesNo": "Climbed",
+        "Name": "Mt. Oxford",
+        "Rank": "26",
+        "Range": "Sawatch",
+        "Date": "2013",
+        "Elevation": "14,153",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.79222899999996,
+          38.00360500000005
+        ]
+      },
+      "type": "Feature",
+      "id": 29,
+      "properties": {
+        "Range": "San Juan",
+        "Elevation": "14,15",
+        "Name": "Mt. Sneffels",
+        "Rank": "27",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.13994599999995,
+          39.33954200000005
+        ]
+      },
+      "type": "Feature",
+      "id": 30,
+      "properties": {
+        "Winter_Ascent": "0",
+        "Climbed_YesNo": "Climbed",
+        "Name": "Mt. Democrat",
+        "Rank": "28",
+        "Range": "Mosquito",
+        "Date": "2011",
+        "Elevation": "14,148",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.08322099999998,
+          39.15016600000007
+        ]
+      },
+      "type": "Feature",
+      "id": 31,
+      "properties": {
+        "Range": "Elk",
+        "Elevation": "14,13",
+        "Name": "Capitol Peak",
+        "Rank": "29",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.04435699999999,
+          38.84054200000003
+        ]
+      },
+      "type": "Feature",
+      "id": 32,
+      "properties": {
+        "Winter_Ascent": "Yes",
+        "Climbed_YesNo": "Climbed",
+        "Name": "Pikes Peak",
+        "Rank": "30",
+        "Range": "Front",
+        "Date": "2011",
+        "Elevation": "14,11",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.06652799999995,
+          39.118809000000056
+        ]
+      },
+      "type": "Feature",
+      "id": 33,
+      "properties": {
+        "Range": "Elk",
+        "Elevation": "14,092",
+        "Name": "Snowmass Mountain",
+        "Rank": "31",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.62249799999995,
+          37.62194800000003
+        ]
+      },
+      "type": "Feature",
+      "id": 34,
+      "properties": {
+        "Range": "San Juan",
+        "Elevation": "14,083",
+        "Name": "Mt. Eolus",
+        "Rank": "32",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.59177399999999,
+          37.62123500000007
+        ]
+      },
+      "type": "Feature",
+      "id": 35,
+      "properties": {
+        "Range": "San Juan",
+        "Elevation": "14,082",
+        "Name": "Windom Peak",
+        "Rank": "33",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.606766,
+          37.980267000000026
+        ]
+      },
+      "type": "Feature",
+      "id": 36,
+      "properties": {
+        "Range": "Sangre de Cristo",
+        "Elevation": "14,081",
+        "Name": "Challenger Point",
+        "Rank": "34",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.29748499999994,
+          38.90395700000005
+        ]
+      },
+      "type": "Feature",
+      "id": 37,
+      "properties": {
+        "Range": "Sawatch",
+        "Elevation": "14,073",
+        "Name": "Mt. Columbia",
+        "Rank": "35",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.37847099999999,
+          38.94755900000007
+        ]
+      },
+      "type": "Feature",
+      "id": 38,
+      "properties": {
+        "Range": "Sawatch",
+        "Elevation": "14,067",
+        "Name": "Missouri Mountain",
+        "Rank": "36",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.55535099999997,
+          37.976105000000075
+        ]
+      },
+      "type": "Feature",
+      "id": 39,
+      "properties": {
+        "Range": "Sangre de Cristo",
+        "Elevation": "14,064",
+        "Name": "Humboldt Peak",
+        "Rank": "37",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.66860999999994,
+          39.58263800000003
+        ]
+      },
+      "type": "Feature",
+      "id": 40,
+      "properties": {
+        "Winter_Ascent": "0",
+        "Climbed_YesNo": "Climbed",
+        "Name": "Mt. Bierstadt",
+        "Rank": "38",
+        "Range": "Front",
+        "Date": "2013",
+        "Elevation": "14,06",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.86328099999997,
+          39.01514000000003
+        ]
+      },
+      "type": "Feature",
+      "id": 41,
+      "properties": {
+        "Winter_Ascent": "0                                                *",
+        "Elevation": "14,060",
+        "Name": "Conundrum Peak",
+        "Range": "Elk",
+        "Date": "2014",
+        "Description": "14er",
+        "Climbed_YesNo": "Climed"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.59589399999999,
+          37.62728500000003
+        ]
+      },
+      "type": "Feature",
+      "id": 42,
+      "properties": {
+        "Range": "San Juan",
+        "Elevation": "14,059",
+        "Name": "Sunlight Peak",
+        "Rank": "39",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.50447799999995,
+          37.91302100000007
+        ]
+      },
+      "type": "Feature",
+      "id": 43,
+      "properties": {
+        "Range": "San Juan",
+        "Elevation": "14,048",
+        "Name": "Handies Peak",
+        "Rank": "40",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.18559299999998,
+          37.12217300000003
+        ]
+      },
+      "type": "Feature",
+      "id": 44,
+      "properties": {
+        "Range": "Sangre de Cristo",
+        "Elevation": "14,047",
+        "Name": "Culebra Peak",
+        "Rank": "41",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.49256899999995,
+          37.582508000000075
+        ]
+      },
+      "type": "Feature",
+      "id": 45,
+      "properties": {
+        "Range": "Sangre de Cristo",
+        "Elevation": "14,042",
+        "Name": "Ellingwood Point",
+        "Rank": "42",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.44476299999997,
+          37.58380100000005
+        ]
+      },
+      "type": "Feature",
+      "id": 46,
+      "properties": {
+        "Range": "Sangre de Cristo",
+        "Elevation": "14,042",
+        "Name": "Mt. Lindsey",
+        "Rank": "43",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.620995,
+          37.62541600000003
+        ]
+      },
+      "type": "Feature",
+      "id": 47,
+      "properties": {
+        "Range": "San Juan",
+        "Elevation": "14,039",
+        "Name": "North Eolus",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.49716199999995,
+          37.56662400000005
+        ]
+      },
+      "type": "Feature",
+      "id": 48,
+      "properties": {
+        "Range": "Sangre de Cristo",
+        "Elevation": "14,037",
+        "Name": "Little Bear Peak",
+        "Rank": "44",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.16994499999998,
+          39.225006000000064
+        ]
+      },
+      "type": "Feature",
+      "id": 49,
+      "properties": {
+        "Winter_Ascent": "0",
+        "Climbed_YesNo": "Climbed",
+        "Name": "Mt. Sherman",
+        "Rank": "45",
+        "Range": "Mosquito",
+        "Date": "2013",
+        "Elevation": "14,036",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.42165399999999,
+          37.94088000000005
+        ]
+      },
+      "type": "Feature",
+      "id": 50,
+      "properties": {
+        "Winter_Ascent": "0",
+        "Climbed_YesNo": "Climbed",
+        "Name": "Redcloud Peak",
+        "Rank": "46",
+        "Range": "San Juan",
+        "Date": "2012",
+        "Elevation": "14,034",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.95018799999997,
+          39.07154500000007
+        ]
+      },
+      "type": "Feature",
+      "id": 51,
+      "properties": {
+        "Range": "Elk",
+        "Elevation": "14,018",
+        "Name": "Pyramid Peak",
+        "Rank": "47",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.98479499999996,
+          37.85991300000006
+        ]
+      },
+      "type": "Feature",
+      "id": 52,
+      "properties": {
+        "Range": "San Juan",
+        "Elevation": "14,017",
+        "Name": "Wilson Peak",
+        "Rank": "48",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.51083399999999,
+          38.06059300000004
+        ]
+      },
+      "type": "Feature",
+      "id": 53,
+      "properties": {
+        "Range": "San Juan",
+        "Elevation": "14,015",
+        "Name": "Wetterhorn Peak",
+        "Rank": "49",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.93138899999997,
+          37.986897000000056
+        ]
+      },
+      "type": "Feature",
+      "id": 54,
+      "properties": {
+        "Range": "San Juan",
+        "Elevation": "14,014",
+        "Name": "San Luis Peak",
+        "Rank": "50",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.98726699999997,
+          39.076077000000055
+        ]
+      },
+      "type": "Feature",
+      "id": 55,
+      "properties": {
+        "Range": "Elk",
+        "Elevation": "14,014",
+        "Name": "North Maroon Peak",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.481766,
+          39.46671300000003
+        ]
+      },
+      "type": "Feature",
+      "id": 56,
+      "properties": {
+        "Range": "Sawatch",
+        "Elevation": "14,005",
+        "Name": "Mt. of the Holy Cross",
+        "Rank": "51",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.43812599999995,
+          38.94542300000006
+        ]
+      },
+      "type": "Feature",
+      "id": 57,
+      "properties": {
+        "Range": "Sawatch",
+        "Elevation": "14,003",
+        "Name": "Huron Peak",
+        "Rank": "52",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.42560599999996,
+          37.922604000000035
+        ]
+      },
+      "type": "Feature",
+      "id": 58,
+      "properties": {
+        "Winter_Ascent": "0",
+        "Climbed_YesNo": "Climbed",
+        "Name": "Sunshine Peak",
+        "Rank": "53",
+        "Range": "San Juan",
+        "Date": "2012",
+        "Elevation": "14,001",
+        "Description": "14er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.59756999999996,
+          39.042340000000024
+        ]
+      },
+      "type": "Feature",
+      "id": 59,
+      "properties": {
+        "Range": "Sawatch",
+        "Elevation": "13,988",
+        "Name": "Grizzly Peak A",
+        "Rank": "54",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.92342999999994,
+          38.02308000000005
+        ]
+      },
+      "type": "Feature",
+      "id": 60,
+      "properties": {
+        "Range": "San Juan",
+        "Elevation": "13,983",
+        "Name": "Stewart Peak",
+        "Rank": "55",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.59810999999996,
+          37.97887000000003
+        ]
+      },
+      "type": "Feature",
+      "id": 61,
+      "properties": {
+        "Range": "Sangre de Cristo",
+        "Elevation": "13,98",
+        "Name": "Columbia Point",
+        "Rank": "56",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.64659999999998,
+          37.63232000000005
+        ]
+      },
+      "type": "Feature",
+      "id": 62,
+      "properties": {
+        "Range": "San Juan",
+        "Elevation": "13,972",
+        "Name": "Pigeon Peak",
+        "Rank": "57",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.22480999999999,
+          38.42264000000006
+        ]
+      },
+      "type": "Feature",
+      "id": 63,
+      "properties": {
+        "Range": "Sawatch",
+        "Elevation": "13,971",
+        "Name": "Mt. Ouray",
+        "Rank": "58",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.43703999999997,
+          38.914870000000064
+        ]
+      },
+      "type": "Feature",
+      "id": 64,
+      "properties": {
+        "Range": "Sawatch",
+        "Elevation": "13,951",
+        "Name": "Ice Mountain",
+        "Rank": "59",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.12888999999996,
+          39.40333000000004
+        ]
+      },
+      "type": "Feature",
+      "id": 65,
+      "properties": {
+        "Winter_Ascent": "0",
+        "Climbed_YesNo": "Climbed",
+        "Name": "Fletcher Mountain",
+        "Rank": "60",
+        "Range": "Tenmile",
+        "Date": "2011",
+        "Elevation": "13,951",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.12340999999998,
+          39.423230000000046
+        ]
+      },
+      "type": "Feature",
+      "id": 66,
+      "properties": {
+        "Winter_Ascent": "0",
+        "Climbed_YesNo": "Climbed",
+        "Name": "Pacific Peak",
+        "Rank": "61",
+        "Range": "Tenmile",
+        "Date": "2012",
+        "Elevation": "13,95",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.85910999999999,
+          39.03427000000005
+        ]
+      },
+      "type": "Feature",
+      "id": 67,
+      "properties": {
+        "Range": "Elk",
+        "Elevation": "13,943",
+        "Name": "Cathedral Peak A",
+        "Rank": "62",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.48231999999996,
+          39.12841000000003
+        ]
+      },
+      "type": "Feature",
+      "id": 68,
+      "properties": {
+        "Range": "Sawatch",
+        "Elevation": "13,94",
+        "Name": "French Mountain",
+        "Rank": "63",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.41986999999995,
+          39.02108000000004
+        ]
+      },
+      "type": "Feature",
+      "id": 69,
+      "properties": {
+        "Range": "Sawatch",
+        "Elevation": "13,933",
+        "Name": "Mt. Hope A",
+        "Rank": "64",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.95172999999994,
+          39.062670000000026
+        ]
+      },
+      "type": "Feature",
+      "id": 70,
+      "properties": {
+        "Range": "Elk",
+        "Elevation": "13,932",
+        "Name": "\"Thunder Pyramid\"",
+        "Rank": "65",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.60474999999997,
+          38.00727000000006
+        ]
+      },
+      "type": "Feature",
+      "id": 71,
+      "properties": {
+        "Range": "Sangre de Cristo",
+        "Elevation": "13,931",
+        "Name": "Mt. Adams A",
+        "Rank": "66",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.98414999999994,
+          37.84513000000004
+        ]
+      },
+      "type": "Feature",
+      "id": 72,
+      "properties": {
+        "Range": "San Juan",
+        "Elevation": "13,913",
+        "Name": "Gladstone Peak",
+        "Rank": "67",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.60502999999994,
+          40.24854000000005
+        ]
+      },
+      "type": "Feature",
+      "id": 73,
+      "properties": {
+        "Range": "Front",
+        "Elevation": "13,911",
+        "Name": "Mt. Meeker",
+        "Rank": "68",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.49385999999998,
+          39.114040000000045
+        ]
+      },
+      "type": "Feature",
+      "id": 74,
+      "properties": {
+        "Range": "Sawatch",
+        "Elevation": "13,908",
+        "Name": "Casco Peak",
+        "Rank": "69",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.18126999999998,
+          37.11223000000007
+        ]
+      },
+      "type": "Feature",
+      "id": 75,
+      "properties": {
+        "Range": "Sangre de Cristo",
+        "Elevation": "13,908",
+        "Name": "Red Mountain A",
+        "Rank": "70",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.38120999999995,
+          38.92909000000003
+        ]
+      },
+      "type": "Feature",
+      "id": 76,
+      "properties": {
+        "Range": "Sawatch",
+        "Elevation": "13,904",
+        "Name": "Emerald Peak",
+        "Rank": "71",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.18499999999995,
+          39.18540000000007
+        ]
+      },
+      "type": "Feature",
+      "id": 77,
+      "properties": {
+        "Range": "Mosquito",
+        "Elevation": "13,898",
+        "Name": "Horseshoe Mountain",
+        "Rank": "72",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.86643999999995,
+          37.93643000000003
+        ]
+      },
+      "type": "Feature",
+      "id": 78,
+      "properties": {
+        "Range": "San Juan",
+        "Elevation": "13,895",
+        "Name": "\"Phoenix Peak\"",
+        "Rank": "73",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.82846999999998,
+          37.799330000000054
+        ]
+      },
+      "type": "Feature",
+      "id": 79,
+      "properties": {
+        "Range": "San Juan",
+        "Elevation": "13,894",
+        "Name": "Vermilion Peak",
+        "Rank": "74",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.28331999999995,
+          38.655290000000036
+        ]
+      },
+      "type": "Feature",
+      "id": 80,
+      "properties": {
+        "Range": "Sawatch",
+        "Elevation": "13,87",
+        "Name": "Cronin Peak",
+        "Rank": "75",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.14686999999998,
+          39.31863000000004
+        ]
+      },
+      "type": "Feature",
+      "id": 81,
+      "properties": {
+        "Winter_Ascent": "0",
+        "Climbed_YesNo": "Climbed",
+        "Name": "Mt. Buckskin",
+        "Rank": "76",
+        "Range": "Mosquito",
+        "Date": "2011",
+        "Elevation": "13,865",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.60280999999998,
+          37.68926000000005
+        ]
+      },
+      "type": "Feature",
+      "id": 82,
+      "properties": {
+        "Range": "San Juan",
+        "Elevation": "13,864",
+        "Name": "Vestal Peak",
+        "Rank": "77",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.52641999999997,
+          37.89649000000003
+        ]
+      },
+      "type": "Feature",
+      "id": 83,
+      "properties": {
+        "Range": "San Juan",
+        "Elevation": "13,86",
+        "Name": "Jones Mountain A",
+        "Rank": "78",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.43434999999994,
+          38.91966000000008
+        ]
+      },
+      "type": "Feature",
+      "id": 84,
+      "properties": {
+        "Range": "Sawatch",
+        "Elevation": "13,86",
+        "Name": "North Apostle",
+        "Rank": "79",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.14874999999995,
+          39.36819000000003
+        ]
+      },
+      "type": "Feature",
+      "id": 85,
+      "properties": {
+        "Range": "Mosquito",
+        "Elevation": "13,857",
+        "Name": "Clinton Peak",
+        "Rank": "80",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.18318,
+          39.23985000000005
+        ]
+      },
+      "type": "Feature",
+      "id": 86,
+      "properties": {
+        "Range": "Mosquito",
+        "Elevation": "13,855",
+        "Name": "Dyer Mountain",
+        "Rank": "81",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.11444999999998,
+          39.434570000000065
+        ]
+      },
+      "type": "Feature",
+      "id": 87,
+      "properties": {
+        "Range": "Tenmile",
+        "Elevation": "13,852",
+        "Name": "Crystal Peak A",
+        "Rank": "82",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.79405999999994,
+          39.636370000000056
+        ]
+      },
+      "type": "Feature",
+      "id": 88,
+      "properties": {
+        "Range": "Front",
+        "Elevation": "13,85",
+        "Name": "Mt. Edwards",
+        "Rank": "83",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.49878999999999,
+          37.614280000000065
+        ]
+      },
+      "type": "Feature",
+      "id": 89,
+      "properties": {
+        "Range": "Sangre de Cristo",
+        "Elevation": "13,849",
+        "Name": "California Peak",
+        "Rank": "84",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.50639999999999,
+          39.178600000000074
+        ]
+      },
+      "type": "Feature",
+      "id": 90,
+      "properties": {
+        "Range": "Sawatch",
+        "Elevation": "13,845",
+        "Name": "Mt. Oklahoma",
+        "Rank": "85",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.46669999999995,
+          37.86433000000005
+        ]
+      },
+      "type": "Feature",
+      "id": 91,
+      "properties": {
+        "Range": "San Juan",
+        "Elevation": "13,841",
+        "Name": "Half Peak",
+        "Rank": "86",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.12592999999998,
+          39.413500000000056
+        ]
+      },
+      "type": "Feature",
+      "id": 92,
+      "properties": {
+        "Range": "Tenmile",
+        "Elevation": "13,841",
+        "Name": "Atlantic Peak",
+        "Rank": "87",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.06019999999995,
+          39.11199000000005
+        ]
+      },
+      "type": "Feature",
+      "id": 93,
+      "properties": {
+        "Range": "Elk",
+        "Elevation": "13,841",
+        "Name": "Hagerman Peak",
+        "Rank": "88",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.63989999999995,
+          37.62748000000005
+        ]
+      },
+      "type": "Feature",
+      "id": 94,
+      "properties": {
+        "Range": "San Juan",
+        "Elevation": "13,835",
+        "Name": "Turret Peak A",
+        "Rank": "89",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.39828999999997,
+          37.94708000000003
+        ]
+      },
+      "type": "Feature",
+      "id": 95,
+      "properties": {
+        "Range": "San Juan",
+        "Elevation": "13,832",
+        "Name": "Unnamed 13832",
+        "Rank": "90",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.48587999999995,
+          39.45896000000005
+        ]
+      },
+      "type": "Feature",
+      "id": 96,
+      "properties": {
+        "Range": "Sawatch",
+        "Elevation": "13,831",
+        "Name": "Holy Cross Ridge",
+        "Rank": "91",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.59203999999994,
+          37.61253000000005
+        ]
+      },
+      "type": "Feature",
+      "id": 97,
+      "properties": {
+        "Range": "San Juan",
+        "Elevation": "13,83",
+        "Name": "Jupiter Mountain",
+        "Rank": "92",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.44791999999995,
+          37.60026000000005
+        ]
+      },
+      "type": "Feature",
+      "id": 98,
+      "properties": {
+        "Range": "Sangre de Cristo",
+        "Elevation": "13,828",
+        "Name": "\"Huerfano Peak\"",
+        "Rank": "93",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.58404999999999,
+          37.64552000000003
+        ]
+      },
+      "type": "Feature",
+      "id": 99,
+      "properties": {
+        "Range": "San Juan",
+        "Elevation": "13,824",
+        "Name": "Jagged Mountain",
+        "Rank": "94",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.51210999999995,
+          39.093560000000025
+        ]
+      },
+      "type": "Feature",
+      "id": 100,
+      "properties": {
+        "Range": "Sawatch",
+        "Elevation": "13,823",
+        "Name": "\"Lackawanna\"",
+        "Rank": "95",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.00541999999996,
+          39.339500000000044
+        ]
+      },
+      "type": "Feature",
+      "id": 101,
+      "properties": {
+        "Winter_Ascent": "0",
+        "Climbed_YesNo": "Climbed",
+        "Name": "Mt. Silverheels",
+        "Rank": "96",
+        "Range": "Front",
+        "Date": "2014",
+        "Elevation": "13,822",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.39236999999997,
+          37.67963000000003
+        ]
+      },
+      "type": "Feature",
+      "id": 102,
+      "properties": {
+        "Range": "San Juan",
+        "Elevation": "13,821",
+        "Name": "Rio Grande Pyramid",
+        "Rank": "97",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.76144999999997,
+          38.000500000000045
+        ]
+      },
+      "type": "Feature",
+      "id": 103,
+      "properties": {
+        "Range": "San Juan",
+        "Elevation": "13,819",
+        "Name": "Teakettle Mountain",
+        "Rank": "98",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.37815999999998,
+          37.95461000000006
+        ]
+      },
+      "type": "Feature",
+      "id": 104,
+      "properties": {
+        "Range": "San Juan",
+        "Elevation": "13,811",
+        "Name": "Unnamed 13811",
+        "Rank": "99",
+        "Description": "13er"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.82399999999996,
+          37.98818000000006
+        ]
+      },
+      "type": "Feature",
+      "id": 105,
+      "properties": {
+        "Range": "San Juan",
+        "Elevation": "13,809",
+        "Name": "Dallas Peak",
+        "Rank": "100",
+        "Description": "13er"
+      }
+    }
+  ]
+}
