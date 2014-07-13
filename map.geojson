@@ -93,7 +93,7 @@
         "ELEVATION": "14,148",
         "DESC": "14er",
         "DATE": 2011,
-        "NUMBER_ASCENTS": 1
+        "NUMBER_ASCENTS": 2
       },
       "geometry": {
         "type": "Point",
@@ -110,7 +110,7 @@
         "ELEVATION": "14,238",
         "DESC": "14er",
         "DATE": 2011,
-        "NUMBER_ASCENTS": 1
+        "NUMBER_ASCENTS": 2
       },
       "geometry": {
         "type": "Point",
@@ -127,7 +127,7 @@
         "ELEVATION": "14,286",
         "DESC": "14er",
         "DATE": 2011,
-        "NUMBER_ASCENTS": 1
+        "NUMBER_ASCENTS": 2
       },
       "geometry": {
         "type": "Point",
@@ -862,7 +862,8 @@
         "NAME": "Castle Peak",
         "ELEVATION": "14,265",
         "DESC": "14er",
-        "DATE": 2014
+        "DATE": 2014,
+        "NUMBER_ASCENTS": 1
       },
       "geometry": {
         "type": "Point",
@@ -878,13 +879,48 @@
         "NAME": "Conundrum Peak",
         "ELEVATION": "14,060",
         "DESC": "14er",
-        "DATE": 2014
+        "DATE": 2014,
+        "NUMBER_ASCENTS": 1
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -106.86276912689209,
           39.015715991295814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mt. Harvard",
+        "ELEVATION": "14,420",
+        "DESC": "14er",
+        "DATE": 2014,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.32079124450684,
+          38.92422743898549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mt. Columbia",
+        "ELEVATION": "14,073",
+        "DESC": "14er",
+        "DATE": 2014,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.29744529724121,
+          38.90372475251103
         ]
       }
     }
