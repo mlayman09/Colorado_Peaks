@@ -124,11 +124,11 @@
       "properties": {
         "Name": "Uncompahgre Peak",
         "ET_ID": 5,
-        "Climbed": "0",
+        "Climbed": "Climbed",
         "Rank": "6",
         "Range": "San Juan",
         "Elev": "14,309",
-        "Date": "0",
+        "Date": 2014,
         "Type": "14er",
         "Winter": "0"
       }
@@ -1158,11 +1158,11 @@
       "properties": {
         "Name": "Wetterhorn Peak",
         "ET_ID": 52,
-        "Climbed": "0",
+        "Climbed": "Climbed",
         "Rank": "49",
         "Range": "San Juan",
         "Elev": "14,015",
-        "Date": "0",
+        "Date": 2014,
         "Type": "14er",
         "Winter": "0"
       }
