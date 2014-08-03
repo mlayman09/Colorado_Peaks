@@ -923,6 +923,40 @@
           38.90372475251103
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Uncompahgre Peak",
+        "ELEVATION": "14,309",
+        "DESC": "14er",
+        "DATE": 2014,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.46225357055664,
+          38.07140629262351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Wetterhorn Peak",
+        "ELEVATION": "14,015",
+        "DESC": "14er",
+        "DATE": 2014,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.51083374023438,
+          38.060661937812824
+        ]
+      }
     }
   ]
 }
