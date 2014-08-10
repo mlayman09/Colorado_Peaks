@@ -1224,11 +1224,11 @@
       "properties": {
         "Name": "Mt. of the Holy Cross",
         "ET_ID": 55,
-        "Climbed": "0",
+        "Climbed": "Climbed",
         "Rank": "51",
         "Range": "Sawatch",
         "Elev": "14,005",
-        "Date": "0",
+        "Date": 2014,
         "Type": "14er",
         "Winter": "0"
       }
@@ -2104,11 +2104,11 @@
       "properties": {
         "Name": "Holy Cross Ridge",
         "ET_ID": 95,
-        "Climbed": "0",
+        "Climbed": "Climbed",
         "Rank": "91",
         "Range": "Sawatch",
         "Elev": "13,831",
-        "Date": "0",
+        "Date": 2014,
         "Type": "13er",
         "Winter": "0"
       }
