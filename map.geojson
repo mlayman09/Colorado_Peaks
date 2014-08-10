@@ -957,6 +957,58 @@
           38.060661937812824
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mount of the Holy Cross",
+        "ELEVATION": "14,005",
+        "DESC": "14er",
+        "DATE": 2014,
+        "NUMBER_ASCENTS": 1,
+        "WINTER_ASCENT": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.48163795471191,
+          39.46667964565638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Unnamed 13248",
+        "ELEVATION": "13,248",
+        "DESC": "13er",
+        "DATE": 2014,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.46284103393555,
+          39.46383037259319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Holy Cross Ridge",
+        "ELEVATION": "13,831",
+        "DESC": "13er",
+        "DATE": 2014,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.48575782775879,
+          39.45886043109427
+        ]
+      }
     }
   ]
 }
