@@ -1009,6 +1009,41 @@
           39.45886043109427
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Longs Peak",
+        "ELEVATION": "14,255",
+        "DESC": "14er",
+        "DATE": 2014,
+        "NUMBER_ASCENTS": 1,
+        "WINTER_ASCENT": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.61582088470459,
+          40.25486788593307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mt. Meeker",
+        "ELEVATION": "13,911",
+        "DESC": "13er",
+        "DATE": 2014,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.60470581054686,
+          40.248415428776134
+        ]
+      }
     }
   ]
 }
