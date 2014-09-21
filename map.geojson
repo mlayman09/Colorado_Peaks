@@ -1044,6 +1044,40 @@
           40.248415428776134
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Challenger Point",
+        "ELEVATION": "14,081",
+        "DESC": "14er",
+        "DATE": 2014,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6064224243164,
+          37.98006282060341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Kit Carson Peak",
+        "ELEVATION": "14,165",
+        "DESC": "14er",
+        "DATE": 2014,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6026029586792,
+          37.97958924185211
+        ]
+      }
     }
   ]
 }
