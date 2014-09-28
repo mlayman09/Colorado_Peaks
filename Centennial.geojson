@@ -1884,13 +1884,13 @@
       "properties": {
         "Name": "Dyer Mountain",
         "ET_ID": 85,
-        "Climbed": "0",
-        "Rank": "81",
+        "Climbed": "Climbed",
+        "Rank": 81,
         "Range": "Mosquito",
         "Elev": "13,855",
-        "Date": "0",
+        "Date": 2014,
         "Type": "13er",
-        "Winter": "0"
+        "Winter": 0
       }
     },
     {
