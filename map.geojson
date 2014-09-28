@@ -1078,6 +1078,24 @@
           37.97958924185211
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Dyer Mountain",
+        "ELEVATION": "13,855",
+        "DESC": "13er",
+        "DATE": 2014,
+        "NUMBER_ASCENTS": 1,
+        "WINTER_ASCENT": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.18311882019043,
+          39.239632418969144
+        ]
+      }
     }
   ]
 }
