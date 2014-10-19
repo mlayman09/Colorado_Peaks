@@ -1246,13 +1246,13 @@
       "properties": {
         "Name": "Huron Peak",
         "ET_ID": 56,
-        "Climbed": "0",
-        "Rank": "52",
+        "Climbed": "Climbed",
+        "Rank": 52,
         "Range": "Sawatch",
         "Elev": "14,003",
-        "Date": "0",
+        "Date": 2014,
         "Type": "14er",
-        "Winter": "0"
+        "Winter": 0
       }
     },
     {
