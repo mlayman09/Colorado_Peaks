@@ -1096,6 +1096,23 @@
           39.239632418969144
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Huron Peak",
+        "ELEVATION": "14,003",
+        "DESC": "14er",
+        "DATE": 2014,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.43786430358887,
+          38.94559201247423
+        ]
+      }
     }
   ]
 }
