@@ -1113,6 +1113,40 @@
           38.94559201247423
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Colorado Mines Peak",
+        "ELEVATION": "12,497",
+        "DESC": "12er",
+        "DATE": 2014,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.7639217376709,
+          39.794688482399465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mt. Flora",
+        "ELEVATION": "13,146",
+        "DESC": "13er",
+        "DATE": 2014,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.73602676391602,
+          39.804711756251194
+        ]
+      }
     }
   ]
 }
