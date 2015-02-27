@@ -408,7 +408,7 @@
       "type": "Feature",
       "id": 18,
       "properties": {
-        "Name": "Mt. Princeton",
+        "Name": "Mt. Belford",
         "ET_ID": 18,
         "Climbed": "Climbed",
         "Rank": "18",
@@ -452,7 +452,7 @@
       "type": "Feature",
       "id": 20,
       "properties": {
-        "Name": "Mt. Belford",
+        "Name": "Mt. Princeton",
         "ET_ID": 20,
         "Climbed": "Climbed",
         "Rank": "20",
