@@ -1147,6 +1147,23 @@
           39.804711756251194
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mt. Sniktau",
+        "ELEVATION": "13,234",
+        "DESC": "13er",
+        "DATE": 2015,
+        "NUMBER_ASCENTS": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8576488494873,
+          39.67825892281194
+        ]
+      }
     }
   ]
 }
