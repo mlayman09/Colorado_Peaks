@@ -1164,6 +1164,22 @@
           39.67825892281194
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Missouri Mountain",
+        "ELEVATION": "14,067",
+        "DESC": "14er",
+        "DATE": 2015
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.37846946716307,
+          38.94759461125006
+        ]
+      }
     }
   ]
 }
