@@ -828,11 +828,11 @@
       "properties": {
         "Name": "Missouri Mountain",
         "ET_ID": 37,
-        "Climbed": "0",
+        "Climbed": "Climbed",
         "Rank": "36",
         "Range": "Sawatch",
         "Elev": "14,067",
-        "Date": "0",
+        "Date": 2015,
         "Type": "14er",
         "Winter": "0"
       }
