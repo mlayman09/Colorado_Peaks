@@ -1,8 +1,6 @@
-Table description for Colorado Peaks map
+Attribute metadata for Colorado Peaks map
 
--------------Matt Layman----------------
-
-
+-----------------------------------------
 
 Column: NAME
 
@@ -31,4 +29,4 @@ Values: {1,2,3,etc.}
 
 Column: WINTER_ASCENT
 
-Values: {Yes, No}
+Values: {Yes, NULL}
